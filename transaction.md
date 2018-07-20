@@ -63,5 +63,4 @@
 基于消息的分布式事务
 https://segmentfault.com/a/1190000011479826
 
-http://blog.jobbole.com/95632/
 
